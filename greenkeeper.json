@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "djangoproject/static/js/lib/clipboard/package.json",
+        "djangoproject/static/js/lib/jquery-flot/package.json",
+        "djangoproject/static/js/lib/jquery.payment/package.json",
+        "package.json"
+      ]
+    }
+  }
+}

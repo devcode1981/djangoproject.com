@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "cake": "~0.1",
-    "coffee-script": "~1.7",
-    "jsdom": "~0.10",
-    "mocha": "~1.18"
+    "coffee-script": "~1.12.7",
+    "jsdom": "~16.0.1",
+    "mocha": "~7.0.1"
   }
 }

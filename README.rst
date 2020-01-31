@@ -1,6 +1,10 @@
 djangoproject.com source code
 =============================
 
+.. image:: https://badges.greenkeeper.io/devcode1981/djangoproject.com.svg
+   :alt: Greenkeeper badge
+   :target: https://greenkeeper.io/
+
 .. image:: https://travis-ci.org/django/djangoproject.com.svg?branch=master
     :target: https://travis-ci.org/django/djangoproject.com
 
